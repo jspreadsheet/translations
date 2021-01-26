@@ -1,2 +1,2 @@
-# translations
+# Translations
 Jspreadsheet text translations
